@@ -1,0 +1,15 @@
+body {
+    overflow: hidden;
+}
+
+h1 {
+    display: block;
+    font-size: 170px !important;
+    font-weight: bold;
+    color: #212121;
+    position: relative;
+    /*animation: showTop 1s;*/
+
+    text-align: center;
+    margin: 0 auto !important;
+}
