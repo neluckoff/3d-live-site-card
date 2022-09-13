@@ -8,6 +8,7 @@
 }
 
 .span-first {
+    font-family: "Source Sans Pro";
     /*animation: showTop 1s;*/
     font-size: 40px;
     text-align: center;
@@ -18,6 +19,7 @@
 }
 
 .span-second {
+    font-family: "Source Sans Pro";
     font-size: 30px;
     text-align: center;
     margin: 0 auto !important;
@@ -37,6 +39,10 @@
     margin-right: 40px;
 }
 
+.buttons li a {
+    text-decoration: none;
+}
+
 .button {
     cursor: pointer;
     background-color: transparent;
@@ -45,6 +51,8 @@
     border-radius: 50%;
     border: 2px solid black;
     text-align: center;
+
+    transition: all .5s ease-in-out;
 }
 
 .button i {
@@ -56,6 +64,17 @@
     align-items: center;
     font-size: 60px;
     justify-content: center;
+
+    transition: all .5s ease-in-out;
+}
+
+.button:hover {
+    width: 110px;
+    height: 110px;
+}
+
+.button i:hover {
+    font-size: 70px;
 }
 
 @keyframes showTop {
