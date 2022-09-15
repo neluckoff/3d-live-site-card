@@ -4,4 +4,4 @@
 
 <span align='center'>* the snake follows the mouse cursor</span>
 
-<img src="https://github.com/neluckoff/untitled/blob/master/gif/present.gif" alt="Flask Server App" width="90%">
+<img src="https://github.com/neluckoff/untitled/blob/master/gif/present.gif" alt="3D business card website">
