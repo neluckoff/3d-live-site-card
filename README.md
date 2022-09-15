@@ -1,4 +1,4 @@
-<h1 align="center">3D business card website with a snake</h1>
+<h1 align="center">3D Site-card with a snake</h1>
 
 <span align='center'>Live 3D business card website made on the Flask framework. GSAP was used to perform the snake movement.</span>
 
